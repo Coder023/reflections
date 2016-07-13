@@ -18,7 +18,8 @@ What are some situations when branches would be helpful in keeping your history 
 A:
 When we want to make experimentation, try solo version of the project etc. Branches helps in such a way that we can accomplish experimentation.
 How do the diagrams help you visualize the branch structure?
-
+A:
+We can see the structure of our repositore the reachable and unreachable commits. Also we can see the branchs that do not make parte of the linear structure. 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
