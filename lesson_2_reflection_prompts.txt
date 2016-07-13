@@ -10,8 +10,9 @@ working directory is where the files are at initial point.
 Staging area is a intermediated area where we can put files that are candidtes to make part of our repo.
 Repository is a database from where we will track all the file
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+A:
+As an intermediate are we use the "git add file" to put the file in staging area. Once there we will just commit file(s) that we´re sure satisfy the general rule "one commit per logical change "
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
