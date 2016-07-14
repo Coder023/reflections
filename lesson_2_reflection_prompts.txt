@@ -20,8 +20,8 @@ When we want to make experimentation, try solo version of the project etc. Branc
 How do the diagrams help you visualize the branch structure?
 A:
 We can see the structure of our repositore the reachable and unreachable commits. Also we can see the branchs that do not make parte of the linear structure. 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
-
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A:
+The result we join two different branchs making one branch. Was represented in that way to help us understand the design. From where one branch was created and where it was joined to other.
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
