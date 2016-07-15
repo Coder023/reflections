@@ -23,5 +23,14 @@ We can see the structure of our repositore the reachable and unreachable commits
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A:
 The result we join two different branchs making one branch. Was represented in that way to help us understand the design. From where one branch was created and where it was joined to other.
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: 
+      1. It make all the work for us.
+      2. Saving time
+
+Cons:
+     1. When there is conflit it´s leave in our own
+     2. It take some time to revise the conflited code
+     3. Make a new commit and then merge       
+
