@@ -15,7 +15,7 @@ use one instead of another?
 
     Fork: a clone function that applies only in github repositories.
     Clone: A copy of a repo that can be local and remote
-    Branch: A label of a commit
+    Branch: A label of a commit and used to try out new things, to experment things that maybe we will merge to the master branch
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
