@@ -33,4 +33,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+   A: 
+     When testing new features, making experimentation essencialy
+     The benefit is that it can prevent the master branch from pulling and pushing accidently when we are not sure some
+     thing new will work.
